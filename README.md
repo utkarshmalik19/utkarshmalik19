@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarshmalik19
 - 👀 I’m interested in developing Android Apps
-- 🌱 I’m currently learning Android using Java
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
